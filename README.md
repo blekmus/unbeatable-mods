@@ -1,12 +1,12 @@
 # UNBEATABLE MODS
 
-MelonLoader mods for UNBEATABLE
+MelonLoader mods for [UNBEATABLE](https://store.steampowered.com/app/2240620/UNBEATABLE/) by D-CELL GAMES.
 
-## Custom Playlist
+## Arcade Mode Custom Playlist
 
-Adds a custom playlist feature to Arcade Mode.
+As much as I love all the songs in the game, there are some that I always come back to. Considering how far my obsession for seeing only the things I want to see has gone, I made my own solution to it. I might've had to learn Unity, C#, and reverse engineering from the ground up, but it was worth it. Here's my fix for: *What if only my favorite songs were displayed?*
 
-### Features
+> Currently only tested on the windows version of the game.
 
 Adds a new **playlist** category in the filters menu that works with all existing sorting methods.
 
@@ -20,9 +20,6 @@ The playlist is saved alongside your save files and syncs to Steam Cloud. It's s
 
 ![savefile](./CUSTOM_PLAYLIST/screenshots/savefile.png)
 
-
-** Currently only tested on the windows version of the game.
-
 ## Installation
 
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer) for UNBEATABLE.
@@ -31,7 +28,7 @@ The playlist is saved alongside your save files and syncs to Steam Cloud. It's s
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details
+MIT License - See [LICENSE](LICENSE.txt) for details
 
 ## Credits
 
