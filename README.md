@@ -25,8 +25,10 @@ The playlist is saved alongside your save files and syncs to Steam Cloud. It's s
 ## Installation
 
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer) for UNBEATABLE.
-2. Place the DLL in your `Mods` folder. 
-3. Launch the game.
+2. Launch game once for MelonLoader to initialize.
+3. Download `.rar` mod file from [Releases](https://github.com/blekmus/unbeatable-mods/releases/latest).
+4. Unzip and place the DLL in your `Mods` folder in the game dir. 
+5. Launch the game.
 
 ## License
 
