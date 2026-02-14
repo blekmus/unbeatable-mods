@@ -6,7 +6,7 @@ MelonLoader mods for [UNBEATABLE](https://store.steampowered.com/app/2240620/UNB
 
 As much as I love all the songs in the game, there are some that I always come back to. Considering how far my obsession for seeing only the things I want to see has gone, I made my own solution to it. I might've had to learn Unity, C#, and reverse engineering from the ground up, but it was worth it. Here's my fix for: *What if only my favorite songs were displayed?*
 
-### [Read about how I made this mod](https://dinil.dev/longform/unbeatable-mod-notes)
+### [Read about how I made this mod](https://dinil.dev/longform/unbeatable-mod-notes?utm_source=github)
 
 > Currently only tested on the windows version of the game.
 
